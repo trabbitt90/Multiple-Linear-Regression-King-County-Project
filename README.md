@@ -1,4 +1,4 @@
-![image.png](attachment:image.png)
+https://sph.washington.edu/sites/default/files/inline-images/Seattle-Rainier%201200x600_0.jpg
 
 
 # King County Housing Sale Price Analysis
