@@ -63,12 +63,15 @@ Using an iterative approach to our model building we created multiple linear reg
 
 ## Results
 ![image](https://user-images.githubusercontent.com/100429663/188283349-5d8d0404-694f-43cc-ac68-e8b78644219c.png)
+
 View positively influences sale price. We see the biggest jump in home sale price when comparing a home with no view to a 'fair' view,  as well as a 'good' view to an 'excellent' view.
 
 ![image](https://user-images.githubusercontent.com/100429663/188283369-2add79c4-4f84-4eb6-8177-d3f2a6082f5a.png)
+
 There is an obvious increase in average sale price in homes that are on a waterfront compared to those that are not.
 
 ![image](https://user-images.githubusercontent.com/100429663/188283356-4fc1f183-68a6-4685-b0f3-5d1c41dc4ac1.png)
+
 Grade has a very strong influence on home sale price, each additional increase in grade sees an increase in mean sale price.
 
 ### Regression Modeling
