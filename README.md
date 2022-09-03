@@ -1,4 +1,4 @@
-![image.png](attachment:image.png)
+!![Screenshot](image.png)
 
 
 # King County Housing Sale Price Analysis
